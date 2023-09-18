@@ -1,0 +1,3 @@
+Welcome to Github class of PG-DBDA
+Today is Monday
+Tomorrow is Ganesh chathurthi
